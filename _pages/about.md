@@ -10,4 +10,8 @@ redirect_from:
 
 Hi, I’m Hoang Duy Trinh! 
 
-I received the B.Sc. degree in Information Engineering and the M.Sc. degree in Telecommunication Engineering from University of Padova, in 2013 and 2015, respectively. Currently I am pursuing the Ph.D. with the Polytechnic University of Catalunya. In September 2016 I joined the Centre Tecnològic de Telecomunicacions de Catalunya as a researcher for the SCAVENGE project, under the Marie Skłodowska-Curie Actions programme. My research interests are in the areas of 5G, mobile big data and energy harvesting networks.
+I'm an Assistant Researcher at the Mobile Network Department of the Centre Tecnològic de Telecomunicacions de Catalunya (**CTTC**). I received the B.Sc. degree in **Information Engineering** and the M.Sc. in **Telecommunication Engineering** from the *University of Padova*, Italy, in 2013 and 2015, respectively. Currently, I'm pursuing a Ph.D. at the department of **Telematics Engineering** of the Technical University of Catalonia (UPC), Spain.
+
+Since September 2016, I'm working as European Commission's Marie Skłodowska-Curie fellow in the EU H2020 MSCA SCAVENGE (Sustainable Cellular Networks Harvesting Ambient Energy) project.
+
+My current research interests are in the area of Data Analytics, Machine Learning for Mobile Network, Wireless Communications and 5G.

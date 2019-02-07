@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "hdtrinh"
+  name             : "Hoang Duy Trinh"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Barcelona"
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

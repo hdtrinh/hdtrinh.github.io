@@ -18,4 +18,4 @@ Since September 2016, I'm working as European Commission's Marie Skłodowska-Cur
 
 My current research interests are in the area of *Big Data, Machine Learning for Mobile Network, Wireless Communications and 5G.*
 
-Here you can download my [CV](https://hdtrinh.github.io/files/hdtrinh_cv_short_2020.pdf).
+Here you can download my [CV](https://hdtrinh.github.io/files/hdtrinh_cv_jun_2020.pdf).

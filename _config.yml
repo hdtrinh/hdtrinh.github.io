@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "hdtrinh.github.io"
 title_separator          : "-"
 name                     : &name "Hoang Duy Trinh"
-description              : &description "PhD Student, Research Assistant"
+description              : &description "PhD, ML, Mobile Networks"
 url                      : https://hdtrinh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hdtrinh/hdtrinh.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Hoang Duy Trinh"
   avatar           : "profile.JPG"
-  bio              : "PhD Student"
-  location         : "Barcelona, Spain"
+  bio              : "PhD, ML, Mobile Networks"
+  location         : "Venice, Italy"
   employer         :
   googlescholar    : "https://scholar.google.it/citations?user=6D56zRAAAAAJ"
   email            :
@@ -213,8 +213,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""

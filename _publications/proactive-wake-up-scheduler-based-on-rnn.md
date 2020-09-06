@@ -1,7 +1,7 @@
 ---
 title: "Proactive Wake-Up Scheduler based on Recurrent Neural Networks"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/proactive-wakeup-scheduled-based-on-rnn
 excerpt: 
 date: 2020-06-01
 venue: 2020 IEEE International Conference on Communications

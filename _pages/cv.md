@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **B.Sc. in Information Engineering**, *Università degli Studi di Padova, Padova, Italy, 2013*
+* **M.Sc. in Telecommunications Engineering**, *Università degli Studi di Padova, Padova, Italy, 2015
+* **Ph.D. in Network Engineering**, *Universitat Politecnica de Catalunya, Barcelona, Spain, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* *Sep 2016 - June 2020:* **Research Assistant, CTTC, Barcelona, Spain
+  * Ph.D. Researcher in Mobile Networks Deparment of CTTC
+  * Early-stage Researcher for SCAVENGE (EU MSCA - H2020)
+  * Dissemination of research activities through publications, talks and international conferences
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* *Oct 2015 - Sep 2016:* **IT Consultant, SideUp Reply SpA, Milan, Italy
+  * ESB Developer and Service Integration for Logistics Process
+  * PL/SQL Developer for Oracle DB
+  * Warehouse Management System (WMS) customer features personalization
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, Java, C++, PL/SQL, MATLAB, R
+* Machine Learning
+  * *ML:* Tensorflow, Keras, PyTorch
+  * *Math and Stats:* NSklearn, Pandas, Dask, PySpark
+  * *Viz:* Matplotlib, Seaborn, Plotly
+* Wireless Communications: 4G LTE, 5G
+* Time-series Forecasting through RNN
+* Anomaly Detection with Semi-Supervised Methods
 
 Publications
 ======
@@ -48,12 +51,8 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
+Service and Misc.
 ======
-* Currently signed in to 43 different slack teams
+* IEEE Conferences and Journals Manuscripts' Reviewer
+* IEEE Student Volunteer

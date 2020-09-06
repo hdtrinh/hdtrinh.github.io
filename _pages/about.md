@@ -10,12 +10,10 @@ redirect_from:
 
 Hi, I’m Hoang Duy! 
 
-I'm an Assistant Researcher at the Mobile Network Department of the *Centre Tecnològic de Telecomunicacions de Catalunya* (**CTTC**). I received the B.Sc. degree in **Information Engineering** and the M.Sc. in **Telecommunication Engineering** from the *University of Padova*, Italy, in 2013 and 2015, respectively. 
+I'm an Ph.D. Research Assistant at the Mobile Network Department of the *Centre Tecnològic de Telecomunicacions de Catalunya* ([CTTC](https://www.cttc.es)). I received the B.Sc. degree in **Information Engineering** and the M.Sc. in **Telecommunication Engineering** from the *University of Padova*, Italy, in 2013 and 2015, respectively. 
 
-Currently, I'm pursuing a Ph.D. at the department of **Network Engineering** of *Polytechnical University of Catalonia* (UPC), Spain.
+In June 2020, I've received a Ph. D. in **Network Engineering**, graduating with honours from the *Polytechnical University of Catalonia* ((UPC](https://www.upc.edu/en)), Spain.
 
 Since September 2016, I'm working as European Commission's Marie Skłodowska-Curie fellow in the **EU H2020 MSCA SCAVENGE** (Sustainable Cellular Networks Harvesting Ambient Energy) project.
 
-My current research interests are in the area of *Big Data, Machine Learning for Mobile Network, Wireless Communications and 5G.*
-
-Here you can download my [CV](https://hdtrinh.github.io/files/hdtrinh_cv_jun_2020.pdf).
+My current research interests are in the area of *machine learning applied to mobile networks, user-traffic forecasting, anomaly detection and 5G.*

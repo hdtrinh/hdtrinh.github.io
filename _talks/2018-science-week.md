@@ -1,5 +1,5 @@
 ---
-title: “SCAVENGE: a European Training Network for PhD students”
+title: “SCAVENGE - a European Training Network for PhD students”
 collection: talks
 type: "Talk"
 permalink: /talks/2018-science-week

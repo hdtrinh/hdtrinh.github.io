@@ -18,6 +18,9 @@ Education
 
 Work experience
 ======
+* *Oct 2020 - Present:* **Machine Learning Engineer, Exein, Rome, Italy**
+  * Building ML models for Exein Core (anomalies and threats detection)
+  
 * *Sep 2016 - June 2020:* **Research Assistant, CTTC, Barcelona, Spain**
   * Ph.D. Researcher in Mobile Networks Deparment of CTTC
   * Early-stage Researcher for SCAVENGE (EU MSCA - H2020)

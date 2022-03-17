@@ -11,37 +11,52 @@ redirect_from:
 
 Education
 ======
-* **B.Sc. in Information Engineering**, *Università degli Studi di Padova, Padova, Italy, 2013*
-* **M.Sc. in Telecommunications Engineering**, *Università degli Studi di Padova, Padova, Italy, 2015*
-* **Ph.D. in Network Engineering**, *Universitat Politecnica de Catalunya, Barcelona, Spain, 2020*
+* 2020 - **Ph.D. in Network Engineering** - UPC Universitat Politecnica de Catalunya (Barcelona, Spain)
+* 2017 - **Visiting Researcher** - University of Maryland (Maryland, United States)
+* 2015 - **M.Sc. in Telecommunications Engineering** - Università degli Studi di Padova (Padova, Italy)
+* 2013 - **B.Sc. in Information Engineering** - Università degli Studi di Padova (Padova, Italy)
 
 
-Work experience
+Work Experience
 ======
-* *Oct 2020 - Present:* **Machine Learning Engineer, Exein, Rome, Italy**
-  * Building ML models for Exein Core (anomalies and threats detection)
+* Oct 2020 - Present: **Machine Learning Engineer, Exein**  (Rome, Italy)
+* Sep 2016 - Jun 2020: **Research Assistant, CTTC, Barcelona, Spain**
+* Oct 2015 - Sep 2016: **IT Consultant, SideUp Reply SpA, Milan, Italy**
   
-* *Sep 2016 - June 2020:* **Research Assistant, CTTC, Barcelona, Spain**
-  * Ph.D. Researcher in Mobile Networks Deparment of CTTC
-  * Early-stage Researcher for SCAVENGE (EU MSCA - H2020)
-  * Dissemination of research activities through publications, talks and international conferences
 
-* *Oct 2015 - Sep 2016:* **IT Consultant, SideUp Reply SpA, Milan, Italy**
-  * ESB Developer and Service Integration for Logistics Process
-  * PL/SQL Developer for Oracle DB
-  * Warehouse Management System (WMS) customer features personalization
-
+Certifications
+======
+* Udacity: **Machine Learning Engineer Nanodegree** 
+* Udacity: **PyTorch Challenge - Facebook Scholarship** 
+* Deeplearning.AI: **Deep Learning Specialization** 
+* Deeplearning.AI: **Machine Learning Engineer Nanodegree** 
   
+
 Skills
 ======
-* **Python**, Java, C++, PL/SQL, MATLAB, R
-* **Machine Learning**
-  * *ML:* Tensorflow, Keras, PyTorch
-  * *Math and Stats:* Sklearn, Pandas, Dask, PySpark
-  * *Visualization:* Matplotlib, Seaborn, Plotly
-* Wireless Communications: 4G LTE, 5G
-* Time-series Forecasting through RNN-LSTM
-* Anomaly Detection through Semi-Supervised Methods
+**Coding** 
+* **Python** (5+ years)
+* **Rust** (1+ years)
+* **C++** (1+ years)
+* **PL/SQL**  (1+ years) 
+
+**Python Tools**
+
+- **Math**: numpy, scipy, pandas, matplotlib, seaborn, plotly
+- **ML**: sklearn, tensorflow, tflite, keras, pytorch, xgboost, ONNX, pyspark, dask
+
+**Miscellaneous**
+
+- **Cloud**: AWS (EC2, ECS, SageMaker), GCP
+- **DB**: OracleDB, Postgres, MongoDB
+- **Misc**: Docker, Terraform, Git, Linux 
+
+**Languages**
+- **Italian** – Native
+- **English** – Work Proficiency
+- **Spanish** – Work Proficiency
+- **Vietnamese** – Basic Proficiency
+
 
 Publications
 ======
@@ -56,7 +71,8 @@ Talks
   {% endfor %}</ul>
   
   
-Service and Misc.
+Service and Miscellaneous
 ======
 * IEEE Conferences and Journals Manuscripts' Reviewer
-* IEEE Student Volunteer
+* MSCA Fellowship Awarded by the European Commission
+* Best Doctoral Thesis Nominee at UPC (2020)

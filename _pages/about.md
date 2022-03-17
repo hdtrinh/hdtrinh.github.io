@@ -1,18 +1,21 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Hello,"
+excerpt: "Home - HD Trinh"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a PhD in **Network Engineering** from the *Polytechnical University of Catalonia* ([UPC](https://www.upc.edu/en)), Barcelona, Spain. I've also received the BSc degree in **Information Engineering** and the MSc in **Telecommunication Engineering** from the *University of Padova*, Italy, in 2013 and in 2015, respectively. 
+I'm HD Trinh! 
 
-From September 2016 to September 2019, I worked as Research Assistant at the Mobile Network Department of the *Centre Tecnològic de Telecomunicacions de Catalunya* ([CTTC](https://www.cttc.es)). In September 2016, I have been awarderd with a European Commission's Marie-Curie Fellowship to work as an Early-stage Researcher in the **EU H2020 MSCA SCAVENGE Project** (Sustainable Cellular Networks Harvesting Ambient Energy [SCAVENGE](http://www.scavenge.eu)).
+I enjoy building ML things and playing with data. I am an **ML Engineer** at [Exein](https://exein.io/). Here, we develop secure and scalable systems for threat detection and anti-malware tools. 
 
-My research interests are in the area of big data, machine learning, mobile networks, anomaly detection and 5G.
+I also have a PhD in **Network Engineering**  from UPC (Barcelona, Spain) and a M.Sc. in  **Telecommunication Engineering** from  UniPD (Padova, Italy). In 2016, I received a Marie-Curie Fellowship to work as a Researcher in the **EU H2020 MSCA SCAVENGE Project** (Sustainable Cellular Networks Harvesting Ambient Energy [SCAVENGE](http://www.scavenge.eu)).
 
-Starting from October 2020, I'm with **[Exein](https://www.exein.io/)** as Machine Learning Engineer, to build IoT Firmware Security solutions. Take a look at *[Exein's Medium](https://exein.medium.com/)* for more info.
+Here you can found my published [research papers](https://scholar.google.com/citations?user=6D56zRAAAAAJ), [talks](https://hdtrinh.github.io/talks/), and my previous [experience](https://hdtrinh.github.io/cv/).
+Follow me up on [LinkedIn](https://www.linkedin.com/in/hdtrinh), [Twitter](https://twitter.com/hd_trim) and [Github](https://github.com/hdtrinh) to see what I'm up to.
+
+Cheers!
 
